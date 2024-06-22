@@ -69,5 +69,5 @@ void main() {
   print("  Age: ${car3.getAge()} years");
 
   // Print total number of Car objects created
-  print("\nTotal Cars Created: $Car.numberOfCars");
+  print("\nTotal Cars Created: ${Car.numberOfCars}");
 }
